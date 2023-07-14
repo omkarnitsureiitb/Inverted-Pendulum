@@ -1,4 +1,4 @@
-# Inverted-Pedulum
+# Inverted-Pendulum
 Simulated the **Inverted pendulum** control system using **Matlab Software** and plotted various system parameters as a function of time to understand
 and thus improve the current state using **feedback control.**
 ## Author - Omkar Nitsure
